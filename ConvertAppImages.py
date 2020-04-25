@@ -1,10 +1,8 @@
 ######
-# ELSOFT 2019
-######
 # Script: Make all imagesizes for IOS and android
 # requires PIL!
 # Usage: Has to be in a folder with drawable-xxxhdpi named folder
-# WARNING: Dont use this inside solution.
+# WARNING: Dont use this inside visual studio solution files.
 ######
 
 import os
